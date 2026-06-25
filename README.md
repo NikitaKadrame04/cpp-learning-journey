@@ -45,6 +45,11 @@ I am currently completing the **C++ Programming Professional Certificate** by Op
 * Learn modern C++ development practices
 * Create practical projects using C++
 
+## Course Progress
+
+This repository is updated as I progress through the C++ Programming Professional Certificate by OpenEDG C++ Institute. Each chapter folder contains exercises, examples, and practice code corresponding to the topics covered in the course.
+
+
 ## Author
 
 Nikita Kadrame

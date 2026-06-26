@@ -12,4 +12,13 @@ int main(){
     for(int i=0; i<8; i++){
         cout<<a[i]<<endl; // Accessing elements from the current position of p
     }
+    //Primitive strings
+    const char s[]={"Nikita Kadrame"};
+    //s[] = {'N','i','k','i','t','a',' ','K','a','d','r','a','m','e',0};
+    //s[]={"Nikita Kadrame"}
+    for (int i=0; s[i]!='\0'; i++)
+    {
+        cout<<s[i]<<endl;
+    }
+    cout<<s;
 }
